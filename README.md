@@ -78,6 +78,5 @@ drive.mount('/content/drive')
 
 ---
 
-### 3. 📦 Install Dependencies
-Run this cell at the top of the notebook to install all necessary packages:
+
 
