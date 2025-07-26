@@ -1,6 +1,6 @@
 # 🧠 EEG-Based Player Classification using Machine Learning
 
-Welcome to our project repository! This work focuses on **Classifying players as Beginner & Advanced** based on their **logical thinking patterns**, as captured through **EEG (Electroencephalogram) signals**.
+Welcome to our project repository! This work focuses on **Classifying players as Beginner & Advanced** based on their **Logical thinking patterns**, as captured through **EEG (Electroencephalogram) signals**.
 
 We believe that the brain never lies — and through this project, we decode the electrical whispers of the mind to understand how experience reflects in neural activity during cognitively intense tasks.
 
@@ -40,9 +40,9 @@ The classification is based on logical thinking tasks (such as playing chess), w
 
 We experimented with a range of classical ML models:
 
-- 🧹 **Support Vector Machine (SVM)**
-- 🌲 **Random Forest**
-- 🐈 **CatBoost**
+-  **Support Vector Machine (SVM)**
+-  **Random Forest**
+-  **CatBoost**
 
 We chose not to include XGBoost to ensure model diversity and interpretability.
 
