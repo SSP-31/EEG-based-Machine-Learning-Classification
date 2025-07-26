@@ -54,29 +54,7 @@ We chose not to include XGBoost to ensure model diversity and interpretability.
 - Visualizations and confusion matrices are available in `/results/`
 
 ---
-## 🛠️ How to Run on Google Colab
 
----
-
-### 1. 🗂️ Open the Colab Notebook
-
-Click the badge below to launch the main notebook:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/eeg-player-classification/blob/main/notebooks/main.ipynb)
-
-> 🔁 Replace the `your-username` and path with the actual repo location of your notebook.
-
----
-
-### 2. 📁 Mount Your Google Drive (Optional)
-
-If you're working with large datasets or want to save outputs to Drive:
-
-```python
-from google.colab import drive
-drive.mount('/content/drive')
-
----
 
 
 
