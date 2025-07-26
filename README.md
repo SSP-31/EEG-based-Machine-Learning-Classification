@@ -56,8 +56,6 @@ We chose not to include XGBoost to ensure model diversity and interpretability.
 ---
 ## 🛠️ How to Run on Google Colab
 
-No GPU? No problem. Here's how you can run this entire project smoothly on Google Colab 🚀
-
 ---
 
 ### 1. 🗂️ Open the Colab Notebook
@@ -77,4 +75,12 @@ If you're working with large datasets or want to save outputs to Drive:
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
+---
+###3. 📦 Install Dependencies
+Run this cell at the top of the notebook to install all necessary packages:
+
+python
+Copy
+Edit
+!pip install numpy pandas matplotlib scikit-learn catboost mne
 
