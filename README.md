@@ -75,12 +75,9 @@ If you're working with large datasets or want to save outputs to Drive:
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
----
-###3. 📦 Install Dependencies
-Run this cell at the top of the notebook to install all necessary packages:
 
-python
-Copy
-Edit
-!pip install numpy pandas matplotlib scikit-learn catboost mne
+---
+
+### 3. 📦 Install Dependencies
+Run this cell at the top of the notebook to install all necessary packages:
 
