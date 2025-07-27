@@ -44,7 +44,6 @@ We experimented with a range of classical ML models:
 -  **Random Forest**
 -  **CatBoost**
 
-We chose not to include XGBoost to ensure model diversity and interpretability.
 
 ---
 
