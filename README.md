@@ -5,7 +5,6 @@ Welcome to our project repository! This work focuses on **Classifying players as
 We believe that the brain never lies — and through this project, we decode the electrical whispers of the mind to understand how experience reflects in neural activity during cognitively intense tasks.
 
 ---
-
 ## 💻Team Details
 
 - Shivani S. Patil
