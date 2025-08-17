@@ -6,6 +6,16 @@ We believe that the brain never lies — and through this project, we decode the
 
 ---
 
+## 💻Team Details
+
+- Shivani S. Patil
+- Rushil B. Thakkar
+- Vinayak C. Hosamani
+
+Guide : Prof. Kaushik Mallibhat
+
+---
+
 ## 🧬 Project Overview
 
 This project leverages **EEG signals** from the **prefrontal cortex** to classify individuals into two groups:
